@@ -1,6 +1,6 @@
-# SevenIsK
+# Ishaan Katara
 # 💫 About Me:
-CSE major at JIIT.<br>I'm working on a merch website.<br>Currently learning C++.<br>I just don't give up.
+CSE major at JIIT.<br>I'm working on AI/ML.<br>Currently learning Python & Node.js.<br>I just don't give up.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishaankx&theme=dark&hide_border=false)<br/>
