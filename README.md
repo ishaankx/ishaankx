@@ -7,22 +7,18 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   Ishaan Katara                                              ║
-║   Software Engineer · ML Systems · Agentic AI                ║
-║                                                              ║
-║   Building production ML pipelines, RAG systems,             ║
-║   and secure backend infrastructure.                         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# Ishaan Katara
+
+**`Software Engineer`** · **`ML Systems`** · **`Agentic AI`**
+
+*Building production ML pipelines, RAG systems, and secure backend infrastructure.*
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan7/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishaankx)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ishaankx/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ishaankatara.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sevenisk.com/about-founder/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kataraishaan@gmail.com)
 
 </div>
@@ -118,27 +114,26 @@ devsecops:
 
 ### `$ cat metrics.log`
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  🔬  Fine-tuned LLaMA-2/3 → +20% task accuracy         │
-│  ⚡  Built ML pipelines   → -35% iteration time         │
-│  🛡️  Anomaly detection    → -40% manual review          │
-│  📈  Risk-scoring service → -30% incident turnaround    │
-│  🤖  RAG pipeline         → 92% retrieval relevance     │
-│  🔄  CI/CD reliability    → 99.9% job success rate      │
-└─────────────────────────────────────────────────────────┘
-```
+| | Metric | Impact |
+|---|---|---|
+| 🔬 | Fine-tuned LLaMA-2/3 | **+20%** task accuracy |
+| ⚡ | Built ML pipelines | **-35%** iteration time |
+| 🛡️ | Anomaly detection | **-40%** manual review |
+| 📈 | Risk-scoring service | **-30%** incident turnaround |
+| 🤖 | RAG pipeline | **92%** retrieval relevance |
+| 🔄 | CI/CD reliability | **99.9%** job success rate |
 
 ---
 
 ### `$ git log --oneline`
 
-```
-📍 2026-now    Software Engineer 1 – Cyber @ Deloitte USI, Hyderabad
-📍 2025-2026   Software Engineer – ML Systems @ Cinntra, Noida
-📍 2024-2025   SWE Intern – ML Systems @ Cinntra, Noida
-🎓 2021-2025   B.Tech CSE @ JIIT, Noida
-```
+> 📍 **2026 → now** &nbsp;&nbsp; Software Engineer 1 – Cyber @ **Deloitte USI**, Hyderabad
+> 
+> 📍 **2025 → 2026** &nbsp;&nbsp; Software Engineer – ML Systems @ **Cinntra**, Noida
+> 
+> 📍 **2024 → 2025** &nbsp;&nbsp; SWE Intern – ML Systems @ **Cinntra**, Noida
+> 
+> 🎓 **2021 → 2025** &nbsp;&nbsp; B.Tech CSE @ **JIIT**, Noida
 
 ---
 
@@ -163,9 +158,7 @@ devsecops:
 
 <div align="center">
 
-```
-> "First, solve the problem. Then, write the code." – John Johnson
-```
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 <img src="https://komarev.com/ghpvc/?username=ishaankx&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" />
 
