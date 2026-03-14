@@ -1,24 +1,172 @@
-# Ishaan Katara
-# 💫 About Me:
-CSE major at JIIT.<br>I'm working on AI/ML.<br>Currently learning Python & Node.js.<br>I just don't give up.
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ishaankx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=ishaankx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishaankx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Dynamic typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+Building+AI+Systems+That+Ship;%3E+ML+%7C+Backend+%7C+DevSecOps)](https://git.io/typing-svg)
 
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishaanxsss) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ishaankatara) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   Ishaan Katara                                              ║
+║   Software Engineer · ML Systems · Agentic AI                ║
+║                                                              ║
+║   Building production ML pipelines, RAG systems,             ║
+║   and secure backend infrastructure.                         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishaankx)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ishaankx/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ishaankatara.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kataraishaan@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ishaankx&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `$ whoami`
+
+Software Engineer at **Deloitte USI** working on cyber automation, anomaly detection, and secure ML pipelines. B.Tech in Computer Science from **JIIT Noida (2025)**. I build things at the intersection of machine learning, backend engineering, and security — from RAG pipelines processing 10K+ chunks to zero-knowledge encryption platforms.
+
+When I'm not shipping production code, I'm fine-tuning LLMs, designing agentic AI systems, or breaking things in Docker containers.
+
+---
+
+### `$ cat tech_stack.yml`
+
+```yaml
+languages:
+  primary:    [ Python, TypeScript, JavaScript, Rust ]
+  systems:    [ C, C++ ]
+  query:      [ SQL, GraphQL ]
+
+ml_and_ai:
+  frameworks: [ PyTorch, Transformers, HuggingFace, ONNX ]
+  techniques: [ RAG, PEFT/LoRA, Fine-Tuning, Embeddings, Vector Search ]
+  models:     [ LLaMA-2/3, YOLOv8, XGBoost, Whisper/WhisperX ]
+  tools:      [ LangChain, FAISS, ChromaDB, pgvector, DVC, MLflow ]
+
+backend:
+  frameworks: [ FastAPI, Flask, NestJS, Node.js ]
+  databases:  [ PostgreSQL, MongoDB, SQLite, Redis ]
+  messaging:  [ Kafka, BullMQ ]
+  apis:       [ REST, GraphQL ]
+
+frontend:
+  frameworks: [ React.js, Next.js, Tauri ]
+  styling:    [ Tailwind CSS ]
+
+devsecops:
+  cloud:      [ AWS, GCP, Firebase ]
+  containers: [ Docker, Kubernetes ]
+  ci_cd:      [ GitHub Actions, GitLab CI, Jenkins ]
+  iac:        [ Terraform, Ansible ]
+  security:   [ SonarQube, WebCrypto, AES-256 ]
+  monitoring: [ MinIO ]
+```
+
+---
+
+### `$ ls -la ./projects/`
+
+<table>
+<tr>
+<td width="50%">
+
+**🔒 HashKrypt**
+<br>Zero-Knowledge File Encryption Platform
+<br>Client-side AES-256 · Asymmetric Key Wrapping · Secure Sharing
+<br>`Next.js` `NestJS` `PostgreSQL` `Redis` `WebCrypto` `GraphQL`
+<br>[GitHub](https://github.com/ishaankx) · [Live](https://github.com/ishaankx)
+
+</td>
+<td width="50%">
+
+**🧠 R.I.M.A.S**
+<br>Real-Time Intelligent Monitoring Advanced System
+<br>Fine-tuned YOLOv8 · LLaMA-2-7b Feedback · Cross-platform
+<br>`Tauri` `Rust` `PyTorch` `OpenCV` `FastAPI` `SQLite`
+<br>[GitHub](https://github.com/ishaankx)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📊 RAG Revenue Intelligence**
+<br>Dockerized pipeline — 10K+ chunks, p50 320ms, 92% relevance
+<br>`Python` `Transformers` `ChromaDB` `pgvector` `Kafka` `Docker`
+
+</td>
+<td width="50%">
+
+**⚡ Pulse-Sync ERP Agent**
+<br>Agentic AI with policy guardrails & audit logging
+<br>Margin-aware proposals in ~5s · ~80% manual decision reduction
+<br>`Python` `PyTorch` `Redis` `PostgreSQL` `Docker`
+
+</td>
+</tr>
+</table>
+
+---
+
+### `$ cat metrics.log`
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  🔬  Fine-tuned LLaMA-2/3 → +20% task accuracy         │
+│  ⚡  Built ML pipelines   → -35% iteration time         │
+│  🛡️  Anomaly detection    → -40% manual review          │
+│  📈  Risk-scoring service → -30% incident turnaround    │
+│  🤖  RAG pipeline         → 92% retrieval relevance     │
+│  🔄  CI/CD reliability    → 99.9% job success rate      │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+### `$ git log --oneline`
+
+```
+📍 2026-now    Software Engineer 1 – Cyber @ Deloitte USI, Hyderabad
+📍 2025-2026   Software Engineer – ML Systems @ Cinntra, Noida
+📍 2024-2025   SWE Intern – ML Systems @ Cinntra, Noida
+🎓 2021-2025   B.Tech CSE @ JIIT, Noida
+```
+
+---
+
+<div align="center">
+
+### `$ neofetch --stats`
+
+<img src="https://github-readme-stats.vercel.app/api?username=ishaankx&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&ring_color=00F0FF&title_color=00F0FF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishaankx&theme=github-dark-blue&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="48%" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaankx&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00F0FF&langs_count=8" width="40%" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaankx&theme=github-compact&hide_border=true&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&area_color=00F0FF" width="90%" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> "First, solve the problem. Then, write the code." – John Johnson
+```
+
+<img src="https://komarev.com/ghpvc/?username=ishaankx&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
